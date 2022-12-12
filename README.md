@@ -4,7 +4,7 @@
 
 ### 0. 코드 정리
 
-<table>
+<table> 
     <thead>
         <tr>
             <th>구    분</th>
